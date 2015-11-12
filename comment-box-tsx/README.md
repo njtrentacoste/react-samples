@@ -4,6 +4,8 @@ This is an example of how to rewrite React JSX apps in TypeScript (TSX).
 
 It is a work in progress.  I'm still figuring out how to work with forms in React and TypeScript.
 
+Additionally, this app makes use of SystemJS to support modules.
+
 To get this app up and running locally:
 
 `npm install`
