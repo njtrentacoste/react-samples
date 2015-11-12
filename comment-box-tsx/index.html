@@ -1,0 +1,26 @@
+<html>
+	<head>
+		<title>React Comment Box with TypeScript JSX</title>
+		<script src="./bower_components/system.js/dist/system.src.js"></script>
+		<script src="./bower_components/jquery/dist/jquery.js"></script>
+	</head>
+	<body>
+		<div id="content"></div>
+		<script>
+			System.config({
+				map: {
+					'react': '/bower_components/react/react.js',
+					'react-dom': '/bower_components/react/react-dom.js'
+				},
+				packages: {
+					'app': {
+						format: 'cjs',
+						defaultExtension: 'js'
+					}
+				}
+			});
+			
+			System.import('app/CommentBox');
+		</script>
+	</body>
+</html>

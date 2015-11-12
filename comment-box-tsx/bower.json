@@ -1,0 +1,26 @@
+{
+  "name": "comment-box-tsx",
+  "description": "Comment Box Tutorial with TypeScipt JSX",
+  "main": "CommentBox.jsx",
+  "authors": [
+    "Nicholas J Trentacoste (njtrentacoste@gmail.com)"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/njtrentacoste/react-samples",
+  "moduleType": [
+    "es6",
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "react": "~0.14.0",
+    "system.js": "~0.19.5"
+  }
+}

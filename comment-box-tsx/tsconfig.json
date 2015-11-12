@@ -1,0 +1,11 @@
+{
+	"compilerOptions": {
+		"jsx": "react",
+		"module": "commonjs",
+		"moduleResolution": "Node",
+		"noImplicitAny": false
+	},
+	"files": [
+		"app/CommentBox.tsx"
+	]
+}

@@ -1,4 +1,6 @@
 # node
+bower_components/
 node_modules/
+typings/
 _public/
 bundle-test.js

@@ -1,0 +1,19 @@
+{
+  "name": "comment-box-tsx",
+  "version": "1.0.0",
+  "description": "Comment Box Tutorial with TypeScipt JSX",
+  "main": "index.js",
+  "scripts": {
+    "watch": "tsc -w",
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.8.5"
+  },
+  "devDependencies": {
+    "typescript": "^1.6.2"
+  }
+}
