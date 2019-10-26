@@ -14,11 +14,20 @@
   "devDependencies": {
     "http-server": "^0.11.1",
     "jsx-loader": "^0.13.2",
+<<<<<<< HEAD
     "webpack": "^1.15.0",
     "webpack-dev-server": "^1.16.5"
   },
   "dependencies": {
     "react": "^0.14.9",
     "react-dom": "^0.14.9"
+=======
+    "webpack": "^4.29.5",
+    "webpack-dev-server": "^3.2.0"
+  },
+  "dependencies": {
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3"
+>>>>>>> f9fbe36e48dae0a839bc8283504157cc00a9050a
   }
 }

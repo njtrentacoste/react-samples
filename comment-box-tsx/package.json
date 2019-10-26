@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+<<<<<<< HEAD
     "react-redux": "^4.4.10",
     "redux": "^3.7.2"
   },
@@ -18,5 +19,11 @@
     "live-server": "^0.8.2",
     "redux-devtools": "^2.1.5",
     "typescript": "^1.8.10"
+=======
+    "http-server": "^0.11.1"
+  },
+  "devDependencies": {
+    "typescript": "^3.3.3333"
+>>>>>>> f9fbe36e48dae0a839bc8283504157cc00a9050a
   }
 }
