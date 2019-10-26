@@ -43,6 +43,9 @@
     },
     "react/react-addons-pure-render-mixin.d.ts": {
       "commit": "c2c22c3b953fe9730d4802022d5e0d18d083909e"
+    },
+    "redux/redux.d.ts": {
+      "commit": "efd40e67ff323f7147651bdbef03c03ead7b1675"
     }
   }
 }
